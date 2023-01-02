@@ -1,4 +1,3 @@
-# Atividade5-ProgWEB
-Atividade 5
-Discente: Felipe de V Assunção
-Matrícula: 21955313
+# Atividade de N° 5 - Programação WEB
+- Discente: Felipe de V Assunção
+- Matrícula: 21955313
